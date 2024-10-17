@@ -101,7 +101,6 @@ st.write("""
 - **Family Influence**: If family members are involved or influencing, this tends to push vaping behavior higher.
 - **Curiosity Influence**: A higher level of curiosity often drives individuals to vape more frequently.
 - **Addiction Influence**: Addiction has a direct positive effect on vaping behavior.
-- **Marketing Influence**: Interestingly, marketing exposure seems to reduce the number of vapes per day in this model, potentially due to anti-smoking/vaping campaigns.
 - **Availability Influence**: When vapes are more available, the frequency of usage increases.
 - **Stress Influence**: Stress leads to a moderate increase in vaping frequency.
 - **Media Influence**: Media exposure has a small positive effect, slightly increasing the number of vapes per day.
